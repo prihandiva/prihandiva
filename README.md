@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fitria</h1>
 <p align="center">
-Aspiring Developer from Indonesia
+Hi^^
 </p>
 
 ---
