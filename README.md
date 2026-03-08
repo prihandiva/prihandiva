@@ -3,8 +3,7 @@
 <h1 align="center">Hi 👋, I'm Fitria</h1>
 
 ### 🎧 Spotify
-![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=yr5gfem5fn10p9c165k4yv7zy&cover_image=true&theme=novatorem)
-
+![Spotify](https://spotify-github-profile.vercel.app/api/spotify?uid=yr5gfem5fn10p9c165k4yv7zy&cover_image=true&theme=novatorem)
 ### 📊 GitHub Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=prihandiva&show_icons=true)
 <!--
