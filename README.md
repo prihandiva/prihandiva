@@ -19,13 +19,6 @@ Hi^^
 </p>
 
 ---
-
-## 🚀 About Me
-
-* 🎓 Student  
-* 💻 Interested in Web Development  
-* 🌱 Currently learning **Programming & Software Development**
-
 ---
 
 ## 🔗 Connect with me
